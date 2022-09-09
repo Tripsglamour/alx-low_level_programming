@@ -1,7 +1,6 @@
-#!/bin/bash
 #include <stdio.h>
 /**
- *  * prints the size of various
+ *  * main - prints the size of various
  *  * Return: 0 if excited properly, otherwise non-zero
  */
 int main(void)
