@@ -1,9 +1,23 @@
-0.Positive anything is better than negative nothing.
-1. The last digit.
-2. I sometimes suffer from insonia. And when i can't sleep, i playbwhat i call the alphabet game
-3.  alphaABET
-4. When i was having that alphabet soup, i never though that it would pay off5. Numbers
+ - Variables, if, else, while
+
+0. Positive anything is better than negative nothing
+
+1. The last digit
+
+2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+
+3. alphABET
+
+4. When I was having that alphabet soup, I never thought that it would pay off
+
+5. Numbers
+
 6. Numberz
-7. Smile in the mirror.
+
+7. Smile in the mirror
+
 8. Hexadecimal
-9. patience, persistence and perspiration amke an unbeatable combination
+
+9. Patience, persistence and perspiration make an unbeatable combination for success
+
+
