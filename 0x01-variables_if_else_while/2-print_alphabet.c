@@ -4,12 +4,12 @@
  *
  * Description: using the main function
  * This program prints "programming is positive, negative or zero"
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
 char ch;
-for (ch ='a' ; ch <= 'z' ; ch++)
+for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 	putchar(ch);
 }
