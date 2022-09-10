@@ -6,7 +6,7 @@
  *
  * Description: using the main function
  * This program prints "positive, negative or zero"
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
@@ -22,7 +22,7 @@ if (l > 5)
 }
 else if (l == 0)
 {
-	printf("last digut of %d is %d and is 0\n", n, l);
+	printf("last digit of %d is %d and is 0\n", n, l);
 }
 else
 {
