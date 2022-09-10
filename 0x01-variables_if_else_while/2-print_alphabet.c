@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- * main: prints if the number is positive, negative or zero
+ * main: prints the alphabet
  *
- * Description: using the main function
- * This program prints "programming is positive, negative or zero"
- * Return: 0
+ * Return: alwwys 0 success
  */
 int main(void)
 {
