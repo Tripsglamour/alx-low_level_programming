@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main: prints the alphabet
- *
- * Return: alwwys 0 success
+ * followed by a new line
+ * Return: always 0 success
  */
 int main(void)
 {
