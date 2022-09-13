@@ -4,7 +4,7 @@
 
 /**
  * main - prints all posible cimbination of singke digit
- * 
+ *
  * Return: Always 0 success
  */
 
@@ -21,6 +21,7 @@ int main(void)
 			putchar(' ');
 		}
 	}
-	putchar('\n')
+	putchar('\n');
+
 	return (0);
 }
