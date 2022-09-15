@@ -1,5 +1,3 @@
-0x00.c Hello World
-Navigating the C-programming Language
 
 0. Preprocessor
 mandatory
@@ -57,3 +55,9 @@ Your program should return 0
 You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
 
 
+
+0x02 FUNCTION NESTED LOOP
+
+0. A program that prints purchar , followed by next line.
+1. A function that prints alphabet in lowercase
+2. A function that prints 10 tines the alphabet
