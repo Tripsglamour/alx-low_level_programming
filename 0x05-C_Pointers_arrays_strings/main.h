@@ -1,5 +1,11 @@
-#ifndef MAIN_H_INCLUDED
-#define MAIN_H_INCLUDED
+#ifndef MAIN_H
+#define MAIN_H
+
+/**
+ * void prototypes()
+ * int prototypes()
+ */
+
 
 int _putchar(char);
 void reset_to_98(int *);
@@ -14,4 +20,4 @@ void print_array(int *,int);
 char *_strcpy(char *, char *);
 int _atoi(char *);
 
-#endif
+#endif /* MAIM.H */
